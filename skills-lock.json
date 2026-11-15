@@ -1,6 +1,138 @@
 {
   "version": 2,
   "skills": {
+    "cli-a2a": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-a2a/SKILL.md",
+      "computedHash": "86edab28511eb3f000904d7c4416b3a4df38183d727552fefd75f4f4d3ab3e83"
+    },
+    "cli-backup-sync": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-backup-sync/SKILL.md",
+      "computedHash": "c7f881bd5d0ce567a09121de19ffed9821f3145d50fdf75b072b7f3fec0299fa"
+    },
+    "cli-batches": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-batches/SKILL.md",
+      "computedHash": "1536dab749a549fc3e3868beb92d6ffb55b1cb39b8a4c08ff9dcb40a9331fa9a"
+    },
+    "cli-chat": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-chat/SKILL.md",
+      "computedHash": "ac42e052f5c8acd8cc38a78450bdf896a08833eb9ae8659f17648bd0d1ac445f"
+    },
+    "cli-compression": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-compression/SKILL.md",
+      "computedHash": "4a67edef4e11fad2bec9e2da72f80d1dd7c90ab4f2067d30deb8a3eef4e8b99c"
+    },
+    "cli-contexts": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-contexts/SKILL.md",
+      "computedHash": "9af8f5d18285275336c9858bd1d1160312975ee84db4acdbe7393e736a8eccf6"
+    },
+    "cli-cost-usage": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-cost-usage/SKILL.md",
+      "computedHash": "09d11ab429076ba068b8c034b2bbe02a4ddb0e8cf900e386ec1ebafd2d28f83e"
+    },
+    "cli-eval": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-eval/SKILL.md",
+      "computedHash": "1dc75db644b9beff36a866fbec41fcbb84a13de206f882a5ec614520e4a6dec1"
+    },
+    "cli-health": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-health/SKILL.md",
+      "computedHash": "395b59ecc7ca86f892d3ef393002e3c19a63f6b8fac14f5a85d55e8fe8ee9db7"
+    },
+    "cli-keys": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-keys/SKILL.md",
+      "computedHash": "fc78a556812fb5efc54bd8cd623bd682f158ee89b05b88865332b0ba800f134a"
+    },
+    "cli-mcp": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-mcp/SKILL.md",
+      "computedHash": "eb951f0694516b9388fa9ad1cdad6248f1a1278f3461b07d29ab773692b105db"
+    },
+    "cli-models": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-models/SKILL.md",
+      "computedHash": "b1ab083958dad9fd94663de1bf18766f61d6f817a6a013f9d9de79cd85609a30"
+    },
+    "cli-plugins-skills": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-plugins-skills/SKILL.md",
+      "computedHash": "4957001feb44d852993e97bbdfbde6ac03ce087df8841b4e00c9ced734cce38e"
+    },
+    "cli-policy-audit": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-policy-audit/SKILL.md",
+      "computedHash": "ec4d7c04baf299e400f2f6463d868da482698111714634f1f73bcc6f5985993c"
+    },
+    "cli-providers": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-providers/SKILL.md",
+      "computedHash": "630c89e62f7d131a482fcb92af64a93cd1ca727006c9584f1add09203bda613a"
+    },
+    "cli-resilience": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-resilience/SKILL.md",
+      "computedHash": "4087f7e321366f32ff58b09048dd1071143bc59ecb7c33ce8490d7674f26372f"
+    },
+    "cli-routing": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-routing/SKILL.md",
+      "computedHash": "7d7731e84b160609666b943c600dde464875a5dc2ff2014d7e84f7fbd44e38ca"
+    },
+    "cli-serve": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-serve/SKILL.md",
+      "computedHash": "a30db2d2b72fe78a507ff4edeb2823585fc52ba3dcdb36fbe3d2f15f598e4502"
+    },
+    "cli-setup": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-setup/SKILL.md",
+      "computedHash": "a123c11e469fcbefe7fe0105264d715e1f65ddfaa82757ce4d3dd17d8014396a"
+    },
+    "cli-skill-collector": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-skill-collector/SKILL.md",
+      "computedHash": "9b7d9d866b7eb4ed6795c26834dd93ccd9fd06b605f933eafceabcf408bb6bf1"
+    },
+    "cli-tunnel": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/cli-tunnel/SKILL.md",
+      "computedHash": "728c6c3a82c7ff4b8bfa27713eb519d26b22ba727d7668bad26a4ab3b59a29fc"
+    },
+    "config-codex-cli": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/config-codex-cli/SKILL.md",
+      "computedHash": "084b202cf3eda2b55c804df84ce38d1b79616abe88d6b620a0739679f48bbdbb"
+    },
     "founder-board": {
       "source": "Jakeschincariol/founder-skill",
       "sourceType": "github",
@@ -126,6 +258,150 @@
       "sourceType": "github",
       "skillPath": "skills/mempalace-task/SKILL.md",
       "computedHash": "d72e1651b04bc76ac049fc8068b9610aa891be53bb7b9d9fcfb540387bd9dd34"
+    },
+    "omni-agents-a2a": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-agents-a2a/SKILL.md",
+      "computedHash": "296a1a706cbc07c2b305f36bdb6160c0f5c6748f6ad43b7bddbdf0de6bb77a18"
+    },
+    "omni-api-keys": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-api-keys/SKILL.md",
+      "computedHash": "4523dd5a55fc562850e9b99a58108362c2f9b5665b148095199b01fc12fd7f5e"
+    },
+    "omni-auth": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-auth/SKILL.md",
+      "computedHash": "8bfea2d5e7a7f79d31b3f9eae590806d6333b7765069ed8a2c028c5ce5a91bc8"
+    },
+    "omni-budget": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-budget/SKILL.md",
+      "computedHash": "b6d1e35b4aeeeb0976126e411e61ef903b9f4e90253621b11a79b7e6a049690b"
+    },
+    "omni-cache": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-cache/SKILL.md",
+      "computedHash": "b59c0f5f50ed65fa96435dc69a58bcc4631fa17b7c0db26a7b30198720ec9ab9"
+    },
+    "omni-cli-tools": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-cli-tools/SKILL.md",
+      "computedHash": "419f6b546c24e6b2e0981d9e5859b64bab730f08e8889eab46df4cd65dc0072f"
+    },
+    "omni-combos-routing": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-combos-routing/SKILL.md",
+      "computedHash": "a0fae11398fdc589775f7fabcb7c2bfe40db9471ccbf1578f1f38a09ae11d6cf"
+    },
+    "omni-compression": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-compression/SKILL.md",
+      "computedHash": "08233afd718716a5889c7306c877cd0d0d1bb143da3984f42c7e83f6d6d77470"
+    },
+    "omni-context-rtk": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-context-rtk/SKILL.md",
+      "computedHash": "f373165fe5e717cc7e3ca00d062a329e424d2c0c29414919340f3ec347ebcff3"
+    },
+    "omni-db-backups": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-db-backups/SKILL.md",
+      "computedHash": "58e86711da92de3871520892af2b932691b84eddad0ce527fc584d86595f7e3c"
+    },
+    "omni-github-skills": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-github-skills/SKILL.md",
+      "computedHash": "615a6c948fc53e46b7fef619730c079a88cbb40497cb18043295adca046e7770"
+    },
+    "omni-inference": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-inference/SKILL.md",
+      "computedHash": "0a38f563ec00df48bf21714b3d3e8879b8ed0fd6e5dbcb5cef5aa2a51a486964"
+    },
+    "omni-mcp": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-mcp/SKILL.md",
+      "computedHash": "aa28920e582865d2f2c7ca84b1f7b1853f49da5ca8a21325c43b09da09f334ad"
+    },
+    "omni-models": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-models/SKILL.md",
+      "computedHash": "9b8ddfade489f356e2b0110b81aa9d984c3f3d1bc516748f96b91e70bed2a395"
+    },
+    "omni-providers": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-providers/SKILL.md",
+      "computedHash": "d2eacfb7f1be4ccbae3ff43f3679787cc2c86333e65ac9f018b478ecfa625bd1"
+    },
+    "omni-proxies": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-proxies/SKILL.md",
+      "computedHash": "197cdc37e4215bf9dfb77c552ffdb6a42f70779c3b4569e59019fb0bb93a2cd8"
+    },
+    "omni-resilience": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-resilience/SKILL.md",
+      "computedHash": "68384a26a134ded84f0678036a2569d370cae17ad87cbbd5bd3bf6a1bcbb5d90"
+    },
+    "omni-settings": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-settings/SKILL.md",
+      "computedHash": "7b53eb4eb1b9310b4bb47244ec54079de6309806bd1a1933be17ec71142f7176"
+    },
+    "omni-sync-cloud": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-sync-cloud/SKILL.md",
+      "computedHash": "070d600b7295b79cce85da01a2b4e63d6fda193e270497b7e99fcaa577128869"
+    },
+    "omni-tunnels": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-tunnels/SKILL.md",
+      "computedHash": "38e85a7264cc74aba62f71481a5695b9976ddcb977e032460b36dc1fdac88db3"
+    },
+    "omni-usage-logs": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-usage-logs/SKILL.md",
+      "computedHash": "5fcb181a31bfb99267eae94fc59d31d85777e44914c944203269cbeb467c8c98"
+    },
+    "omni-version-manager": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-version-manager/SKILL.md",
+      "computedHash": "51220b369c16a3d36fca15ce08e16059d072a98ebfad240d7d1a719c7820af9b"
+    },
+    "omni-webhooks": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-webhooks/SKILL.md",
+      "computedHash": "f713120c1d65c1c676a1c21afca33110a57f66caf2a0336995a10fa668583aa7"
+    },
+    "ponytail": {
+      "source": "cheaper-inference/OmniRoute",
+      "sourceType": "github",
+      "skillPath": "skills/ponytail/SKILL.md",
+      "computedHash": "01f5285e76e1b8bed14a9b89c3b3978b5dbdacd2a426d75e57a5180fea6f85aa"
     },
     "replica-architect": {
       "source": "Jakeschincariol/replica-skill",
