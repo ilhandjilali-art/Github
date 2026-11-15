@@ -67,6 +67,18 @@
       "skillPath": "skills/founder-pricing/SKILL.md",
       "computedHash": "d35ea39a7dcb727d52a77f8a85ddf4596630088ae2cf9ae5e47fcf5759f0d0d5"
     },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "83485963700bcf11d5bf78118facb301676b69d918fee2e45a95e7f1a2840f6c"
+    },
+    "headroom": {
+      "source": "headroomlabs-ai/headroom",
+      "sourceType": "github",
+      "skillPath": "skills/headroom/SKILL.md",
+      "computedHash": "a8eaac845279b8e3c094d2cd905fe39aed92d492db2dd0c0f23528bf733c725f"
+    },
     "hyperframes": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",
@@ -96,6 +108,24 @@
       "sourceType": "github",
       "skillPath": "skills/media-use/SKILL.md",
       "computedHash": "e1f3a9bd0366f1ff0341bd585443f271c8e176a80f295f3cf6d901f9ca87f7fb"
+    },
+    "mempalace": {
+      "source": "MemPalace/mempalace",
+      "sourceType": "github",
+      "skillPath": "skills/mempalace/SKILL.md",
+      "computedHash": "a162f749cd121fc4d8b2beff0b9ba6ee6d4ffab9a058e8b782ba429def7aca7f"
+    },
+    "mempalace-recall": {
+      "source": "MemPalace/mempalace",
+      "sourceType": "github",
+      "skillPath": "skills/mempalace-recall/SKILL.md",
+      "computedHash": "3390ed3be027b56b5214544eb39fa103ee7ec52e0c75289b51b07485286b8ae4"
+    },
+    "mempalace-task": {
+      "source": "MemPalace/mempalace",
+      "sourceType": "github",
+      "skillPath": "skills/mempalace-task/SKILL.md",
+      "computedHash": "d72e1651b04bc76ac049fc8068b9610aa891be53bb7b9d9fcfb540387bd9dd34"
     },
     "replica-architect": {
       "source": "Jakeschincariol/replica-skill",
